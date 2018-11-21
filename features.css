@@ -1,3 +1,10 @@
-.h1 {
-	color="red"	;
+@charset "utf-8";
+div{
+	background-color:black;
+    	color:geen;
+    	margin:20px;
+    	padding:20px;
+}
+h1 {
+	color=red;
 }
